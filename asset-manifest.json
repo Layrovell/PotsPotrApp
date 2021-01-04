@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2313db4f.chunk.css",
+    "main.js": "/static/js/main.d8a1751f.chunk.js",
+    "main.js.map": "/static/js/main.d8a1751f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f820e157.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f820e157.js.map",
+    "static/js/2.b7bceb41.chunk.js": "/static/js/2.b7bceb41.chunk.js",
+    "static/js/2.b7bceb41.chunk.js.map": "/static/js/2.b7bceb41.chunk.js.map",
+    "static/js/3.5587c834.chunk.js": "/static/js/3.5587c834.chunk.js",
+    "static/js/3.5587c834.chunk.js.map": "/static/js/3.5587c834.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2313db4f.chunk.css.map": "/static/css/main.2313db4f.chunk.css.map",
+    "static/js/2.b7bceb41.chunk.js.LICENSE.txt": "/static/js/2.b7bceb41.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/static/media/romb.6f69c912.svg",
+    "static/media/benefits.bb64b1fa.png": "/static/media/benefits.bb64b1fa.png",
+    "static/media/cactus.21b6c3e7.jpg": "/static/media/cactus.21b6c3e7.jpg",
+    "static/media/cart.9249210f.svg": "/static/media/cart.9249210f.svg",
+    "static/media/facebook.548f0886.svg": "/static/media/facebook.548f0886.svg",
+    "static/media/instarram.0121717a.svg": "/static/media/instarram.0121717a.svg",
+    "static/media/owners.34a70b72.jpg": "/static/media/owners.34a70b72.jpg",
+    "static/media/plant.33363c12.jpg": "/static/media/plant.33363c12.jpg",
+    "static/media/potr-size.d60860d7.jpg": "/static/media/potr-size.d60860d7.jpg",
+    "static/media/promo.290579e3.jpg": "/static/media/promo.290579e3.jpg",
+    "static/media/sircle.3b2c72f4.png": "/static/media/sircle.3b2c72f4.png",
+    "static/media/step-1.8add4b02.jpg": "/static/media/step-1.8add4b02.jpg",
+    "static/media/step-2.dc7251f9.jpg": "/static/media/step-2.dc7251f9.jpg",
+    "static/media/step-3.bf9d6c3f.jpg": "/static/media/step-3.bf9d6c3f.jpg",
+    "static/media/time.76d66147.jpg": "/static/media/time.76d66147.jpg",
+    "static/media/twitter.e5e97e4e.svg": "/static/media/twitter.e5e97e4e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f820e157.js",
+    "static/js/2.b7bceb41.chunk.js",
+    "static/css/main.2313db4f.chunk.css",
+    "static/js/main.d8a1751f.chunk.js"
+  ]
+}
