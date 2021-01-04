@@ -1,0 +1,29 @@
+.link-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  position: relative;
+
+  @media (min-width: $screenExstraLarge) {
+    width: 1400px;
+  }
+}
+
+.content-container {
+  width: 1170px;
+
+  @media (max-width: $screenLarge) {
+    width: 100%;
+    padding: 0 50px;
+  }
+
+  @media (max-width: $screenDesktop) {
+    width: 100%;
+    padding: 0 40px;
+  }
+
+  @media (max-width: $screenMobile) {
+    width: 100%;
+    padding: 0 30px;
+  }
+}
